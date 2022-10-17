@@ -11,3 +11,9 @@ p{
     text-align: center;
     font-size: 25px;
 }
+#imagens{
+    width: 90;
+    border: 5px solid black;
+    height: 50%;
+}
+ 
