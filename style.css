@@ -16,4 +16,9 @@ p{
     border: 5px solid black;
     height: 50%;
 }
+.itens{
+    font-size: italic;
+    font-size: 50px;
+    text-align: left;
+}
  
